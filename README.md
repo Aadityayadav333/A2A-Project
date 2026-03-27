@@ -125,6 +125,3 @@ Built by **Aaditya Yadav** & **Hassan Mahmood**
 
 ---
 
-## 📄 License
-
-MIT
